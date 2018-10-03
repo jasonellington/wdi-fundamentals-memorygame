@@ -38,6 +38,15 @@ h2 {
   text-transform: uppercase;
 }
 
+h3 {
+  font-family: "Raleway", sans-serif;
+  color: #0D2C40;
+  letter-spacing: 1px;
+  font-weight: 400px;
+  font-size: 16px;
+  text-transform: uppercase;
+}
+
 p {
   font-family: "Droid Serif", serif;
   line-height: 26px;
@@ -54,6 +63,18 @@ a {
   text-decoration: none;
   margin: 0 20px;
   border-bottom: 2px solid transparent;
+}
+
+button {
+  background-color: #F15B31;
+  border: none;
+  color: white;
+  padding: 8px 16px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-family: "Raleway", sans-serif;
+  font-size: 16px;
 }
 
 a:hover {
